@@ -1,4 +1,4 @@
-```markdown
+
 # Event Bubbling Demonstration
 
 This project demonstrates the concept of **event bubbling** in JavaScript. It showcases how events propagate from child elements to parent elements in the DOM and how to manage event propagation effectively.
@@ -113,4 +113,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Anuj Shah**  
 GitHub: [@anujshahmnnit](https://github.com/anujshahmnnit)
-```
